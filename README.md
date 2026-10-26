@@ -21,7 +21,7 @@ Free Chrome extensions, ready to download and install. None of them collect data
 | **SiteScope - Content Auditor** | 1.3.0 | Crawl a whole domain from your browser for content and compliance audits. | [sitescope.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/sitescope.zip) | [view](screenshots/sitescope/) |
 | **WebDrawPro** | 1.3.0 | Draw, annotate and measure on any web page; save as a screenshot. | [web-draw-pro.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/web-draw-pro.zip) | [view](screenshots/web-draw-pro/) |
 | **Pro Auto Scroller** | 1.4.0 | Smooth, adjustable auto-scrolling; Space to start/pause. | [auto-scroller.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/auto-scroller.zip) | [view](screenshots/auto-scroller/) |
-| **Smooth Keyboard & Mouse Zoom** | 1.3.0 | Smooth zoom toward the mouse with Alt + Scroll and Alt +/-/0. | [zoomer.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/zoomer.zip) | [view](screenshots/zoomer/) |
+| **Smooth Keyboard & Mouse Zoom** | 1.4.0 | Smooth zoom toward the mouse with Alt + Scroll and Alt +/-/0. | [zoomer.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/zoomer.zip) | [view](screenshots/zoomer/) |
 
 ## How to install
 
