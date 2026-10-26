@@ -1,0 +1,98 @@
+[
+  {
+    "id": "api-interceptor",
+    "name": "API Interceptor Pro",
+    "version": "1.3.0",
+    "zip": "zips/api-interceptor.zip"
+  },
+  {
+    "id": "blur-remover",
+    "name": "Blur Remover & DOM Modifier",
+    "version": "1.2.0",
+    "zip": "zips/blur-remover.zip"
+  },
+  {
+    "id": "clear-path",
+    "name": "ClearPath Zen Pro",
+    "version": "1.2.0",
+    "zip": "zips/clear-path.zip"
+  },
+  {
+    "id": "competitor-analysis",
+    "name": "Meta Competitor Intelligence",
+    "version": "1.1.0",
+    "zip": "zips/competitor-analysis.zip"
+  },
+  {
+    "id": "context-search",
+    "name": "ContextSearch - AI & Multi-Source Developer Search",
+    "version": "0.2.0",
+    "zip": "zips/context-search.zip"
+  },
+  {
+    "id": "cookie-clean",
+    "name": "CookieClean",
+    "version": "1.1.0",
+    "zip": "zips/cookie-clean.zip"
+  },
+  {
+    "id": "devshield",
+    "name": "DevShield \u2014 Ad, Tracker & Pop-up Blocker",
+    "version": "3.1.0",
+    "zip": "zips/devshield.zip"
+  },
+  {
+    "id": "formfiller",
+    "name": "Universal Form Autofiller",
+    "version": "1.2.0",
+    "zip": "zips/formfiller.zip"
+  },
+  {
+    "id": "musicox",
+    "name": "Musicox",
+    "version": "1.1.0",
+    "zip": "zips/musicox.zip"
+  },
+  {
+    "id": "scrollshot",
+    "name": "ScrollShot Pro",
+    "version": "1.1.0",
+    "zip": "zips/scrollshot.zip"
+  },
+  {
+    "id": "seo-lens",
+    "name": "SEO Lens",
+    "version": "1.1.0",
+    "zip": "zips/seo-lens.zip"
+  },
+  {
+    "id": "seo-rank-finder",
+    "name": "SEO Rank Finder",
+    "version": "1.1.0",
+    "zip": "zips/seo-rank-finder.zip"
+  },
+  {
+    "id": "sitescope",
+    "name": "SiteScope - Content Auditor",
+    "version": "1.2.0",
+    "zip": "zips/sitescope.zip"
+  },
+  {
+    "id": "web-draw-pro",
+    "name": "WebDrawPro",
+    "version": "1.2.0",
+    "zip": "zips/web-draw-pro.zip"
+  },
+  {
+    "id": "auto-scroller",
+    "name": "Pro Auto Scroller",
+    "version": "1.3.0",
+    "zip": "zips/auto-scroller.zip"
+  },
+  {
+    "id": "zoomer",
+    "name": "Smooth Keyboard & Mouse Zoom",
+    "version": "1.2.0",
+    "zip": "zips/zoomer.zip"
+  }
+]
