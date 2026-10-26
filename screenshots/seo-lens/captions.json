@@ -33,5 +33,10 @@
     "file": "07-printable-report.png",
     "title": "Hand clients a clean report",
     "caption": "A print-ready audit with fixes, crawler checks and broken links. Save it as a PDF in two clicks."
+  },
+  {
+    "file": "08-tech-stack.png",
+    "title": "See what any site is built with",
+    "caption": "CMS, frameworks, analytics, CDN and server, with versions and the evidence. Detected locally."
   }
 ]
