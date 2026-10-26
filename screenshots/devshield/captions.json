@@ -1,0 +1,27 @@
+[
+  {
+    "file": "01-blocks-ads-and-popups.png",
+    "title": "Ads and pop-ups, gone",
+    "caption": "DevShield blocks ads, trackers and pop-unders on every site and shows what it stopped."
+  },
+  {
+    "file": "02-before-and-after.png",
+    "title": "Read the page, not the ads",
+    "caption": "Ad slots, sponsored widgets and tracking scripts are removed before they load."
+  },
+  {
+    "file": "03-blocked-history.png",
+    "title": "Every blocked pop-up, logged",
+    "caption": "See which pop-ups and redirects were stopped, and open one anyway if you wanted it."
+  },
+  {
+    "file": "04-filter-lists.png",
+    "title": "Trusted filter lists built in",
+    "caption": "EasyList, EasyPrivacy, uBlock filters and regional lists run inside Chrome itself."
+  },
+  {
+    "file": "05-import-my-filters.png",
+    "title": "Bring your uBlock filters along",
+    "caption": "Import \"My filters\" or a backup from uBlock Origin or AdGuard in one click."
+  }
+]

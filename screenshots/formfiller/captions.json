@@ -1,0 +1,32 @@
+[
+  {
+    "file": "01-fill-any-form.png",
+    "title": "Fill any form in one click",
+    "caption": "Realistic names, addresses, unique emails and Stripe test cards go into every field, including selects and radios."
+  },
+  {
+    "file": "02-start-from-empty.png",
+    "title": "From empty form to done",
+    "caption": "Open a sign-up or checkout page, click Fill or press Ctrl+Shift+F, and you are ready to submit."
+  },
+  {
+    "file": "03-auto-fill-on-load.png",
+    "title": "Auto-fill your test site on load",
+    "caption": "Switch it on for a site in the popup and every page load is filled for you, with a toast that shows how to undo."
+  },
+  {
+    "file": "04-keep-change-skip.png",
+    "title": "Keep, change or skip each field",
+    "caption": "The side panel lists every field so you can lock values and only change the email on each run."
+  },
+  {
+    "file": "05-rich-text-and-payments.png",
+    "title": "Rich-text editors and payments too",
+    "caption": "Card fields get valid test cards with a future expiry, and rich-text editors get real paragraphs."
+  },
+  {
+    "file": "06-settings.png",
+    "title": "Settings that fit your workflow",
+    "caption": "Manage auto-fill sites, test data, personas, URL rules and Gemini AI, then export them for your team."
+  }
+]

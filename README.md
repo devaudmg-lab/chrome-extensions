@@ -4,24 +4,24 @@ Free Chrome extensions, ready to download and install. None of them collect data
 
 ## Download
 
-| Extension | Version | What it does | Download |
-|---|---|---|---|
-| **API Interceptor Pro** | 1.3.0 | Monitor, inspect and mock fetch/XHR API calls; HAR export, copy as cURL. | [api-interceptor.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/api-interceptor.zip) |
-| **Blur Remover & DOM Modifier** | 1.2.0 | Remove blur overlays and modals, unlock scrolling, Reader View, dark mode, custom CSS. | [blur-remover.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/blur-remover.zip) |
-| **ClearPath Zen Pro** | 1.2.0 | Hide distractions, reading ruler, tints, typography controls, bionic reading. | [clear-path.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/clear-path.zip) |
-| **Meta Competitor Intelligence** | 1.1.0 | Turn the Meta Ad Library into a private, searchable competitor database. | [competitor-analysis.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/competitor-analysis.zip) |
-| **ContextSearch - AI & Multi-Source Developer Search** | 0.2.0 | Context-aware AI explanations and multi-source developer search (Stack Overflow, GitHub, MDN, npm). | [context-search.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/context-search.zip) |
-| **CookieClean** | 1.1.0 | Cookie manager and auto-cleaner: clean on tab close, whitelists, one-key purge. | [cookie-clean.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/cookie-clean.zip) |
-| **DevShield — Ad, Tracker & Pop-up Blocker** | 3.1.0 | Ad, tracker, pop-up and redirect-hijack blocker. No telemetry. | [devshield.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/devshield.zip) |
-| **Universal Form Autofiller** | 1.2.0 | Fill forms with realistic mock data or Gemini-generated data; profiles and URL rules. | [formfiller.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/formfiller.zip) |
-| **Musicox** | 1.1.0 | Background music player for YouTube links and audio URLs. | [musicox.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/musicox.zip) |
-| **ScrollShot Pro** | 1.1.0 | Region-locked scrolling screenshots, stitched seamlessly; PNG/JPG/WebP. | [scrollshot.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/scrollshot.zip) |
-| **SEO Lens** | 1.1.0 | Real-time on-page SEO audit in the side panel; CSV/Markdown export. | [seo-lens.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/seo-lens.zip) |
-| **SEO Rank Finder** | 1.1.0 | Find your site's Google ranking position for a list of keywords. | [seo-rank-finder.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/seo-rank-finder.zip) |
-| **SiteScope - Content Auditor** | 1.2.0 | Crawl a whole domain from your browser for content and compliance audits. | [sitescope.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/sitescope.zip) |
-| **WebDrawPro** | 1.2.0 | Draw, annotate and measure on any web page; save as a screenshot. | [web-draw-pro.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/web-draw-pro.zip) |
-| **Pro Auto Scroller** | 1.3.0 | Smooth, adjustable auto-scrolling; Space to start/pause. | [auto-scroller.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/auto-scroller.zip) |
-| **Smooth Keyboard & Mouse Zoom** | 1.2.0 | Smooth zoom toward the mouse with Alt + Scroll and Alt +/-/0. | [zoomer.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/zoomer.zip) |
+| Extension | Version | What it does | Download | Screenshots |
+|---|---|---|---|---|
+| **API Interceptor Pro** | 1.4.0 | Monitor, inspect and mock fetch/XHR API calls; HAR export, copy as cURL. | [api-interceptor.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/api-interceptor.zip) | [view](screenshots/api-interceptor/) |
+| **Blur Remover & DOM Modifier** | 1.3.0 | Remove blur overlays and modals, unlock scrolling, Reader View, dark mode, custom CSS. | [blur-remover.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/blur-remover.zip) | [view](screenshots/blur-remover/) |
+| **ClearPath Zen Pro** | 1.3.0 | Hide distractions, reading ruler, tints, typography controls, bionic reading. | [clear-path.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/clear-path.zip) | [view](screenshots/clear-path/) |
+| **Meta Competitor Intelligence** | 1.2.0 | Turn the Meta Ad Library into a private, searchable competitor database. | [competitor-analysis.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/competitor-analysis.zip) | [view](screenshots/competitor-analysis/) |
+| **ContextSearch - AI & Multi-Source Developer Search** | 0.3.0 | Context-aware AI explanations and multi-source developer search (Stack Overflow, GitHub, MDN, npm). | [context-search.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/context-search.zip) | [view](screenshots/context-search/) |
+| **CookieClean** | 1.2.0 | Cookie manager and auto-cleaner: clean on tab close, whitelists, one-key purge. | [cookie-clean.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/cookie-clean.zip) | [view](screenshots/cookie-clean/) |
+| **DevShield — Ad, Tracker & Pop-up Blocker** | 3.2.0 | Ad, tracker, pop-up and redirect-hijack blocker. No telemetry. | [devshield.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/devshield.zip) | [view](screenshots/devshield/) |
+| **Universal Form Autofiller** | 1.3.0 | Fill forms with realistic mock data or Gemini-generated data; profiles and URL rules. | [formfiller.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/formfiller.zip) | [view](screenshots/formfiller/) |
+| **Musicox** | 1.2.0 | Background music player for YouTube links and audio URLs. | [musicox.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/musicox.zip) | [view](screenshots/musicox/) |
+| **ScrollShot Pro** | 1.2.0 | Region-locked scrolling screenshots, stitched seamlessly; PNG/JPG/WebP. | [scrollshot.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/scrollshot.zip) | [view](screenshots/scrollshot/) |
+| **SEO Lens** | 1.2.0 | Real-time on-page SEO audit in the side panel; CSV/Markdown export. | [seo-lens.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/seo-lens.zip) | [view](screenshots/seo-lens/) |
+| **SEO Rank Finder** | 1.2.0 | Find your site's Google ranking position for a list of keywords. | [seo-rank-finder.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/seo-rank-finder.zip) | [view](screenshots/seo-rank-finder/) |
+| **SiteScope - Content Auditor** | 1.3.0 | Crawl a whole domain from your browser for content and compliance audits. | [sitescope.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/sitescope.zip) | [view](screenshots/sitescope/) |
+| **WebDrawPro** | 1.3.0 | Draw, annotate and measure on any web page; save as a screenshot. | [web-draw-pro.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/web-draw-pro.zip) | [view](screenshots/web-draw-pro/) |
+| **Pro Auto Scroller** | 1.4.0 | Smooth, adjustable auto-scrolling; Space to start/pause. | [auto-scroller.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/auto-scroller.zip) | [view](screenshots/auto-scroller/) |
+| **Smooth Keyboard & Mouse Zoom** | 1.3.0 | Smooth zoom toward the mouse with Alt + Scroll and Alt +/-/0. | [zoomer.zip](https://github.com/devaudmg-lab/chrome-extensions/raw/main/zips/zoomer.zip) | [view](screenshots/zoomer/) |
 
 ## How to install
 
@@ -32,6 +32,15 @@ Free Chrome extensions, ready to download and install. None of them collect data
 5. Pin it from the puzzle-piece menu in the toolbar.
 
 **Updating:** download the new zip, replace the files in the same folder, then click the reload icon on the extension's card in `chrome://extensions`. Your settings are kept.
+
+## Screenshots and website copy
+
+Every extension has a folder in `screenshots/<id>/` with:
+- `01-…png`, `02-…png`, … — 1280×800 images (also the Chrome Web Store size), most important first
+- `captions.json` — title + caption for each image
+- `website.md` — ready-to-use page copy: tagline, what it does, features, how to use, shortcuts, permissions, FAQ
+
+`tools/showcase.js` is the shared frame used to produce them.
 
 ## For the maintainer
 

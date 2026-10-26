@@ -1,0 +1,27 @@
+[
+  {
+    "file": "01-ai-answers-follow-ups.png",
+    "title": "Explain code, then ask follow-ups",
+    "caption": "Select code on any page, press Ctrl+Shift+Space and keep asking questions right where you are."
+  },
+  {
+    "file": "02-context-aware-palette.png",
+    "title": "Actions that fit your selection",
+    "caption": "ContextSearch reads what you selected and where you are, then suggests the most useful actions."
+  },
+  {
+    "file": "03-multi-source-research.png",
+    "title": "Every developer source, one panel",
+    "caption": "Deep Research ranks Stack Overflow, GitHub, npm and MDN results and marks the ones you already opened."
+  },
+  {
+    "file": "04-local-ollama-models.png",
+    "title": "Free AI with local Ollama",
+    "caption": "It finds the models installed on your computer, so you can use AI without an API key."
+  },
+  {
+    "file": "05-share-action-packs.png",
+    "title": "Build and share custom actions",
+    "caption": "Create your own searches and AI prompts, then send them to teammates as a small JSON file."
+  }
+]

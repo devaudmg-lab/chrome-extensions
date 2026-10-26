@@ -1,0 +1,27 @@
+[
+  {
+    "file": "01-zoom-toward-cursor.png",
+    "title": "Zoom right where you point",
+    "caption": "Hold Alt and scroll to zoom smoothly toward your mouse, up to 1000%."
+  },
+  {
+    "file": "02-magnifier-loupe.png",
+    "title": "A magnifier loupe on demand",
+    "caption": "Press Alt+Shift+M for a round lens that follows your mouse; Alt+scroll changes its power."
+  },
+  {
+    "file": "03-fit-image.png",
+    "title": "Alt + click to fit an image",
+    "caption": "Any image, chart or video fills the window in one click, and arrow keys pan around."
+  },
+  {
+    "file": "04-read-fine-print.png",
+    "title": "Read the fine print",
+    "caption": "The loupe magnifies text, maps, canvases and videos without changing the page layout."
+  },
+  {
+    "file": "05-popup-settings.png",
+    "title": "Simple settings, per site",
+    "caption": "Turn zoom off for one site, pick the maximum zoom, and see every shortcut at a glance."
+  }
+]

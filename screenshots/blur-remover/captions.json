@@ -1,0 +1,27 @@
+[
+  {
+    "file": "01-before-after.png",
+    "title": "Clear pop-ups and frozen scrolling",
+    "caption": "Blurred backdrops, newsletter pop-ups and locked scrolling disappear, so you can read the page again."
+  },
+  {
+    "file": "02-popup.png",
+    "title": "Every site under your control",
+    "caption": "See what changed on the page, toggle presets, or pause the site for 30 minutes."
+  },
+  {
+    "file": "03-element-picker.png",
+    "title": "Point, click, fixed for good",
+    "caption": "The element picker suggests stable selectors and saves a rule for this site."
+  },
+  {
+    "file": "04-reader-view.png",
+    "title": "A clean Reader View",
+    "caption": "Read any article without clutter, with contents, read-aloud, highlights and export."
+  },
+  {
+    "file": "05-options.png",
+    "title": "Sites, rules and settings",
+    "caption": "Manage paused sites, per-site dark mode, the toolbar badge and your statistics."
+  }
+]

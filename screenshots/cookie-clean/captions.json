@@ -1,0 +1,7 @@
+[
+  { "file": "01-purge-site-cookies.png", "title": "Clean cookies, stay signed in", "caption": "See every cookie a site stores, purge them in one click, and trust the sites you want to stay logged in to." },
+  { "file": "02-third-party-cookies.png", "title": "Spot third-party trackers", "caption": "The Third-party view lists the ad and analytics domains on this page that keep cookies, so you can delete them." },
+  { "file": "03-cookie-explorer.png", "title": "Find high-risk cookies fast", "caption": "The Explorer groups every cookie in Chrome by site and flags trackers and long-lived or insecure cookies." },
+  { "file": "04-stats-and-automation.png", "title": "Automatic, scheduled, measurable", "caption": "Track what was cleared each day, deep-clean site storage, and schedule purges every hour, 6 hours or day." },
+  { "file": "05-whitelist.png", "title": "Safe Havens for trusted sites", "caption": "Trusted domains and their subdomains are never cleaned automatically." }
+]

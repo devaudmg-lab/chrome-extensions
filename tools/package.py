@@ -11,6 +11,8 @@ Each entry in extensions.json:
   build         optional shell command run in `source` before zipping
 """
 import json
+import posixpath
+import re
 import subprocess
 import sys
 import zipfile
@@ -56,6 +58,23 @@ def check_manifest_refs(root: Path, manifest: dict, shipped: set):
     return missing
 
 
+def check_html_refs(files: dict):
+    """Find local src/href targets in shipped HTML pages that are not shipped."""
+    missing = []
+    for arc, f in files.items():
+        if not arc.endswith(".html"):
+            continue
+        html = f.read_text(encoding="utf-8", errors="ignore")
+        for ref in re.findall(r"""(?:src|href)\s*=\s*["']([^"'#?]+)""", html):
+            if re.match(r"^(https?:|data:|mailto:|chrome|javascript:|//|\$|\{)", ref) or not ref.strip():
+                continue
+            base = posixpath.dirname(arc)
+            target = posixpath.normpath(ref.lstrip("/") if ref.startswith("/") else posixpath.join(base, ref))
+            if target not in files:
+                missing.append(f"{arc} -> {ref}")
+    return missing
+
+
 def resolve_msg(root: Path, manifest: dict, value: str) -> str:
     """Turn "__MSG_key__" into its default-locale text."""
     if not value.startswith("__MSG_"):
@@ -83,7 +102,7 @@ def build(ext: dict) -> Path:
         for f in iter_files(root, rel):
             files[f.relative_to(root).as_posix()] = f
 
-    missing = check_manifest_refs(root, manifest, set(files))
+    missing = check_manifest_refs(root, manifest, set(files)) + check_html_refs(files)
     if missing:
         raise RuntimeError(f"{ext['id']}: manifest references files not shipped: {missing}")
 

@@ -1,0 +1,27 @@
+[
+  {
+    "file": "01-focus-and-listen.png",
+    "title": "Focus on one line at a time",
+    "caption": "The focus mask dims all but the lines you read, while Read Aloud highlights each paragraph."
+  },
+  {
+    "file": "02-dyslexia-friendly-reading.png",
+    "title": "Dyslexia-friendly fonts and tints",
+    "caption": "Switch any page to OpenDyslexic, add spacing and a soft tint, and ClearPath remembers it for that site."
+  },
+  {
+    "file": "03-hide-distractions.png",
+    "title": "Click to hide distractions",
+    "caption": "Target & Hide outlines what is under your mouse, and one click removes it on every visit."
+  },
+  {
+    "file": "04-popup-shortcuts.png",
+    "title": "One click or one shortcut",
+    "caption": "Open the Zen panel from the toolbar, or press Alt+Shift+Q on any page."
+  },
+  {
+    "file": "05-first-run-tips.png",
+    "title": "Friendly from the first click",
+    "caption": "A short welcome tip shows the basics and the keyboard shortcuts the first time you open the panel."
+  }
+]

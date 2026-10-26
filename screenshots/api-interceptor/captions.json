@@ -1,0 +1,6 @@
+[
+  { "file": "01-inspect-api-calls.png", "title": "Every API call, inspected live", "caption": "A DevTools tab lists each fetch and XHR call with status, timing, headers and a pretty-printed body." },
+  { "file": "02-mock-responses.png", "title": "Mock any response in seconds", "caption": "Pick a request, press Mock this, and return your own status, body, headers and delay." },
+  { "file": "03-test-error-states.png", "title": "Test empty and error states", "caption": "Build UI for failures before the backend exists, and flip each mock on or off from the toolbar." },
+  { "file": "04-graphql-operations.png", "title": "Built for GraphQL too", "caption": "Requests show their operation name, and rules can target a single query such as GetDeals." }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "file": "01-capture-scroll-area.png",
+    "title": "Capture a whole scroll area",
+    "caption": "Click any scrolling panel and ScrollShot scrolls it and stitches every message into one image."
+  },
+  {
+    "file": "02-select-any-region.png",
+    "title": "Select exactly what you need",
+    "caption": "Drag a box around a table or thread; hold at the bottom edge to make it taller than the screen."
+  },
+  {
+    "file": "03-blur-and-highlight.png",
+    "title": "Blur, highlight and crop",
+    "caption": "Hide private details, mark what matters and trim the edges before you copy or download."
+  },
+  {
+    "file": "04-full-page.png",
+    "title": "Full page in one click",
+    "caption": "Capture an entire page from top to bottom, without repeated sticky headers or sidebars."
+  },
+  {
+    "file": "05-capture-history.png",
+    "title": "Every capture, saved locally",
+    "caption": "Your last 25 captures stay on your computer, ready to download or copy again."
+  },
+  {
+    "file": "06-popup.png",
+    "title": "Two buttons, zero setup",
+    "caption": "Start a region or full-page capture from the toolbar, with your recent captures one click away."
+  }
+]

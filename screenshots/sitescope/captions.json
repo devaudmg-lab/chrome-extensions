@@ -1,0 +1,27 @@
+[
+  {
+    "file": "01-multi-term-site-audit.png",
+    "title": "Audit a whole site for many terms",
+    "caption": "Crawl every page once and see how often each word or phrase appears, page by page."
+  },
+  {
+    "file": "02-highlight-in-context.png",
+    "title": "Jump straight to every match",
+    "caption": "Highlight in Context opens the page, marks each match and lets you step through them with Enter."
+  },
+  {
+    "file": "03-start-from-the-popup.png",
+    "title": "Start an audit in seconds",
+    "caption": "Enter your terms, pick a scope and crawl speed, and watch progress live from the toolbar."
+  },
+  {
+    "file": "04-shareable-html-report.png",
+    "title": "Share a clean HTML report",
+    "caption": "Export a standalone report that anyone can open in a browser, no extension needed."
+  },
+  {
+    "file": "05-recheck-a-single-page.png",
+    "title": "Recheck a page after fixing it",
+    "caption": "Re-scan one page from the report to confirm a fix without crawling the whole site again."
+  }
+]

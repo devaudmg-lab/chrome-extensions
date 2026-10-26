@@ -1,0 +1,27 @@
+[
+  {
+    "file": "01-annotate-any-page.png",
+    "title": "Mark up any web page",
+    "caption": "Draw arrows, circles, highlights, text and numbered steps right on top of the page."
+  },
+  {
+    "file": "02-blur-and-number-steps.png",
+    "title": "Blur private details, number steps",
+    "caption": "Hide emails and keys before you share, then walk people through it step by step."
+  },
+  {
+    "file": "03-measure-and-adjust.png",
+    "title": "Measure, move and resize",
+    "caption": "The ruler shows pixel distance and angle, and any shape can be selected and adjusted."
+  },
+  {
+    "file": "04-drawings-scroll-with-page.png",
+    "title": "Notes that stay in place",
+    "caption": "Drawings are pinned to the page, so they scroll with the content they point at."
+  },
+  {
+    "file": "05-toolbar.png",
+    "title": "Everything in one toolbar",
+    "caption": "Undo and redo, copy to clipboard or save a PNG, and press a single key to switch tools."
+  }
+]

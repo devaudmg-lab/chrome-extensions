@@ -1,0 +1,27 @@
+[
+  {
+    "file": "01-hands-free-reading.png",
+    "title": "Hands-free reading, any page",
+    "caption": "Press Space and the page scrolls smoothly at your pace, with a speed bar and time left in the corner."
+  },
+  {
+    "file": "02-on-page-controls.png",
+    "title": "Controls right on the page",
+    "caption": "Pause, slow down or speed up from the floating bar, or just press + and - while you read."
+  },
+  {
+    "file": "03-speed-per-site.png",
+    "title": "Your speed, remembered per site",
+    "caption": "Set a slow pace for recipes and a faster one for feeds; each site keeps its own speed."
+  },
+  {
+    "file": "04-first-run.png",
+    "title": "Ready in one click",
+    "caption": "A short hint on first run shows the keys, and every setting is saved automatically."
+  },
+  {
+    "file": "05-dark-mode.png",
+    "title": "Looks right in dark mode",
+    "caption": "The popup follows your system theme, so it never glares at night."
+  }
+]
