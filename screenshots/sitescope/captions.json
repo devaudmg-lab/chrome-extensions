@@ -23,5 +23,10 @@
     "file": "05-recheck-a-single-page.png",
     "title": "Recheck a page after fixing it",
     "caption": "Re-scan one page from the report to confirm a fix without crawling the whole site again."
+  },
+  {
+    "file": "06-compare-with-previous-run.png",
+    "title": "See what changed since the last run",
+    "caption": "Re-run an audit to see which pages were fixed and where matches are new, with history that cleans itself up."
   }
 ]

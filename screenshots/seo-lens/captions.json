@@ -2,26 +2,36 @@
   {
     "file": "01-instant-seo-audit.png",
     "title": "Audit any page in one click",
-    "caption": "A 0-100 SEO score and a prioritised fix list for the page you are reading, right in the side panel."
+    "caption": "A 0-100 SEO score, a prioritised fix list and a crawler view of status, robots.txt and noindex."
   },
   {
-    "file": "02-score-history.png",
-    "title": "Track your score over time",
-    "caption": "Every audit is saved on your device, so you can see each page improve after every fix."
+    "file": "02-broken-link-checker.png",
+    "title": "Find every broken link",
+    "caption": "Check all links on the page at once, see 404s and redirects, then filter, search or copy them."
   },
   {
-    "file": "03-schema-checks.png",
+    "file": "03-serp-width-hreflang.png",
+    "title": "Write titles that fit in Google",
+    "caption": "Title and description width in pixels, plus hreflang, canonical and robots checks."
+  },
+  {
+    "file": "04-schema-checks.png",
     "title": "Catch broken structured data",
     "caption": "JSON-LD is checked for the fields Google needs for rich results, such as a Product price."
   },
   {
-    "file": "04-social-previews.png",
+    "file": "05-social-previews.png",
     "title": "Preview every share card",
     "caption": "See how the page will look on Google, Facebook, X and LinkedIn before you publish it."
   },
   {
-    "file": "05-printable-report.png",
+    "file": "06-score-history.png",
+    "title": "Track your score over time",
+    "caption": "Every audit is saved on your device, so you can see each page improve after every fix."
+  },
+  {
+    "file": "07-printable-report.png",
     "title": "Hand clients a clean report",
-    "caption": "Open a print-ready audit report and save it as a PDF in two clicks."
+    "caption": "A print-ready audit with fixes, crawler checks and broken links. Save it as a PDF in two clicks."
   }
 ]

@@ -1,0 +1,27 @@
+[
+  {
+    "file": "01-page-palette.png",
+    "title": "See every colour a page uses",
+    "caption": "Swatchly lists a site's colours by how much they are used. Filter by backgrounds, text or borders and click to copy."
+  },
+  {
+    "file": "02-eyedropper.png",
+    "title": "Pick any pixel, copy it instantly",
+    "caption": "The eyedropper grabs a colour from anywhere on screen and copies it as HEX, RGB or HSL. Recent picks are kept."
+  },
+  {
+    "file": "03-contrast-checker.png",
+    "title": "Check contrast, then fix it",
+    "caption": "See the WCAG ratio for any text and background pair, with a one-click suggestion for the closest passing colour."
+  },
+  {
+    "file": "04-export-dark-mode.png",
+    "title": "Export a palette in one click",
+    "caption": "Copy the colours as CSS variables, JSON or a plain list, or download a .json file. Dark mode included."
+  },
+  {
+    "file": "05-paint-background.png",
+    "title": "Try a new background colour",
+    "caption": "Paint the page background with the current colour to preview it, then undo with one click."
+  }
+]

@@ -9,11 +9,13 @@ Universal Form Autofiller fills sign-up, checkout and settings forms with believ
 ## Key features
 
 - **One-click fill** for text fields, selects, radios, checkboxes, dates, textareas and rich-text editors, in every frame on the page.
-- **Auto-fill on page load**: switch it on for a site and every page is filled as soon as it loads (empty fields only, never with AI), with a toast that shows how to undo.
+- **Auto-fill on page load**: switch it on for a site and every page is filled as soon as it loads, including route changes in single-page apps (empty fields only, never with AI), with a toast that shows how to undo.
 - **Realistic test data**: 30 built-in personas or a new person on every fill, in 15 locales, with matching country, state and phone formats.
 - **Fill as a chosen persona**, or rotate through them, from the popup.
 - **Unique emails and usernames** with plus-addressing (`you+ff…@gmail.com`), timestamps or random suffixes.
 - **Gateway test cards** for Stripe, Braintree, Adyen and PayPal, including declined and 3-D Secure cards, always with a future expiry.
+- **Right-click any field**: **Fill this field** fills just that one (even if it has a value), and **Insert test value** types a name, unique email, phone, address, strong password, paragraph, or an edge case (too long, emoji, RTL, padded spaces, XSS or SQL probe). Undo works on both.
+- **On-page feedback**: fills started with a shortcut or the right-click menu show a short toast with the result and the undo shortcut.
 - **Keep / Change / Skip each field** from the side panel, so you can keep a name and only change the email on every run.
 - **Undo and Clear**, plus **Edge-case mode** with long, Unicode, RTL and SQL/XSS probe strings for negative testing.
 - **URL rules and custom mappings** to set fixed values for specific pages or fields.
@@ -28,6 +30,7 @@ Universal Form Autofiller fills sign-up, checkout and settings forms with believ
 4. Click **Fill Current Form** (or press `Ctrl + Shift + F`). Use **Undo** if you want the old values back.
 5. Optional: pick a persona under **Fill as**, or turn on **Auto-fill this site on load** for your staging or local site.
 6. Optional: click **Keep / Change** to open the side panel and lock the fields you want to keep the same.
+7. Right-click a single field for **Fill this field** or **Insert test value** (for example a unique email or an XSS probe).
 
 ## Keyboard shortcuts
 
@@ -48,8 +51,8 @@ You can change these at `chrome://extensions/shortcuts`.
 | Read and change data on all websites | To find and fill form fields on the pages you choose, including forms inside iframes. Fields are only touched when you start a fill, use the side panel or `Alt + L`, or on a site where you turned on auto-fill. |
 | Active tab and scripting | To add the filler to tabs that were open before you installed or updated the extension. |
 | Web navigation | To find every frame on a page, and to know when a page on an auto-fill site has finished loading. |
-| Storage | To save your settings, personas and rules in your browser. |
-| Context menus | For the right-click menu (fill, overwrite, undo, clear, open the panel). |
+| Storage | To save your settings, personas, rules and field modes in your browser. This storage is closed to the websites you visit and to the extension's own scripts on those sites. |
+| Context menus | For the right-click menu (fill the form or one field, insert a test value, overwrite, undo, clear, open the panel). |
 | Side panel | For the Keep / Change / Skip panel. |
 | generativelanguage.googleapis.com | Only for AI fills, to call Gemini with your own key. |
 
@@ -63,3 +66,9 @@ No. They are the public test numbers that Stripe, Braintree, Adyen and PayPal pu
 
 **Will auto-fill overwrite what I typed?**
 No. Auto-fill only fills empty fields, never uses AI, and shows a toast with the undo shortcut. You can turn it off for a site in the popup or remove sites in Options.
+
+**Where is my Gemini API key kept?**
+In this browser's extension storage, which only FormFiller's own pages and background can read. The scripts FormFiller runs on websites can't read it, it never appears in a page, and it is never exported. It is sent only to Google, in a request header, when you run an AI fill or click **Test key**.
+
+**What does the page see when I use AI?**
+Only the values that end up in its form fields, exactly as if you had typed them. Gemini's answer is never placed anywhere else in the page.

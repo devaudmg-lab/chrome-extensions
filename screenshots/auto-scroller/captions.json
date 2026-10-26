@@ -2,7 +2,7 @@
   {
     "file": "01-hands-free-reading.png",
     "title": "Hands-free reading, any page",
-    "caption": "Press Space and the page scrolls smoothly at your pace, with a speed bar and time left in the corner."
+    "caption": "Start with Alt+Shift+S or the popup and the page scrolls smoothly, with a speed bar and time left in the corner."
   },
   {
     "file": "02-on-page-controls.png",
@@ -11,13 +11,13 @@
   },
   {
     "file": "03-speed-per-site.png",
-    "title": "Your speed, remembered per site",
-    "caption": "Set a slow pace for recipes and a faster one for feeds; each site keeps its own speed."
+    "title": "Finish the page right on time",
+    "caption": "Say how many minutes you have and it picks the speed. Each site also remembers its own pace."
   },
   {
     "file": "04-first-run.png",
-    "title": "Ready in one click",
-    "caption": "A short hint on first run shows the keys, and every setting is saved automatically."
+    "title": "Space stays yours until you start",
+    "caption": "Space only pauses and resumes once the scroller runs, so videos, games and page-down keep working."
   },
   {
     "file": "05-dark-mode.png",

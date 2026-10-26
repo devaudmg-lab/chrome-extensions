@@ -11,13 +11,13 @@
   },
   {
     "file": "03-blur-and-highlight.png",
-    "title": "Blur, highlight and crop",
-    "caption": "Hide private details, mark what matters and trim the edges before you copy or download."
+    "title": "Blur, annotate and crop",
+    "caption": "Hide private details, add arrows, labels and highlights, and trim the edges before you share."
   },
   {
     "file": "04-full-page.png",
-    "title": "Full page in one click",
-    "caption": "Capture an entire page from top to bottom, without repeated sticky headers or sidebars."
+    "title": "Full page in one click, even very long ones",
+    "caption": "No repeated sticky headers, lazy images loaded, and export as PNG, JPG, WebP or a multi-page PDF."
   },
   {
     "file": "05-capture-history.png",
@@ -26,7 +26,7 @@
   },
   {
     "file": "06-popup.png",
-    "title": "Two buttons, zero setup",
-    "caption": "Start a region or full-page capture from the toolbar, with your recent captures one click away."
+    "title": "Three ways to capture, zero setup",
+    "caption": "Region, full page or just what is on screen, with your recent captures one click away."
   }
 ]

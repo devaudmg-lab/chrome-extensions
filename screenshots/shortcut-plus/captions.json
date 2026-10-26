@@ -1,0 +1,27 @@
+[
+  {
+    "file": "01-organized-new-tab.png",
+    "title": "Unlimited shortcuts on your New Tab",
+    "caption": "Group them, give them emoji or colours, and open a whole group in one click."
+  },
+  {
+    "file": "02-type-to-open.png",
+    "title": "Type a name, press Enter",
+    "caption": "The search box finds your shortcuts as you type. Enter opens the match; one arrow key away is a web search."
+  },
+  {
+    "file": "03-import-bookmarks.png",
+    "title": "Bring your bookmarks along",
+    "caption": "Pick a bookmarks folder and it becomes a group of shortcuts. Ones you already have are skipped."
+  },
+  {
+    "file": "04-undo-delete.png",
+    "title": "Deleted the wrong one? Undo",
+    "caption": "Shortcuts and groups come back exactly where they were. Layout changes undo with Ctrl+Z."
+  },
+  {
+    "file": "05-free-placement.png",
+    "title": "Place every tile where you want it",
+    "caption": "Free placement with smart guides, align and distribute tools, resizing, and undo for every move."
+  }
+]

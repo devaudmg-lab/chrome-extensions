@@ -7,17 +7,17 @@
   {
     "file": "02-tracked-keywords.png",
     "title": "Track every keyword over time",
-    "caption": "Each check is saved, with a trend line and the change since last time for every keyword."
+    "caption": "Filter and sort every keyword, with a trend line and the change since your last check."
   },
   {
     "file": "03-rank-history-chart.png",
     "title": "See the full ranking history",
-    "caption": "Open any keyword for a chart of its position, its best rank and the page that ranks."
+    "caption": "Open any keyword for its position chart, best rank and ranking page, and choose if it is auto-checked."
   },
   {
     "file": "04-daily-checks-alerts.png",
-    "title": "Daily checks with alerts",
-    "caption": "Turn on daily or weekly re-checks and get a notification when a position changes."
+    "title": "Daily checks with smart alerts",
+    "caption": "Re-check daily or weekly, pick which moves notify you, and back off politely if Google objects."
   },
   {
     "file": "05-quick-start.png",

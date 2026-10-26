@@ -27,6 +27,11 @@
   {
     "file": "06-settings.png",
     "title": "Settings that fit your workflow",
-    "caption": "Manage auto-fill sites, test data, personas, URL rules and Gemini AI, then export them for your team."
+    "caption": "Manage auto-fill sites, saved field modes, test data, personas, URL rules and Gemini AI, then export them for your team."
+  },
+  {
+    "file": "07-right-click-test-values.png",
+    "title": "Right-click any field for a test value",
+    "caption": "Fill just that field, or insert a unique email, a strong password or an edge case such as emoji, RTL text or an XSS probe."
   }
 ]

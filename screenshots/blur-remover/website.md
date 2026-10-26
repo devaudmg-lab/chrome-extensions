@@ -13,6 +13,8 @@ Blur Remover clears blurred backdrops, newsletter and cookie pop-ups and locked 
 - Element picker with suggested stable selectors, live match counts, one-off "zap" and Ctrl+Z undo.
 - Reader View with table of contents, read-aloud, highlights and notes, Markdown/HTML export, print to PDF and readable fonts.
 - Dark mode per site: a fast filter mode or a dynamic mode that keeps brand colours, with brightness, contrast and schedule.
+- Presets per site: turn "Allow copy & right-click", cookie pop-up removal or any other preset on (or off) for one site only, straight from the popup.
+- Highlights library: every highlight and note you made in Reader View, searchable in one place, with Markdown export.
 - Pause on any site, permanently or for 30 minutes (it switches back on by itself).
 - Export a site's rules as a small rule pack file to share or import on another computer.
 - Rule packs, statistics, backup and restore, and an optional count badge on the toolbar icon.
@@ -24,7 +26,8 @@ Blur Remover clears blurred backdrops, newsletter and cookie pop-ups and locked 
 3. Visit a page with a blurred pop-up or frozen scrolling. Magic auto-unblur works straight away; press **Alt+U** for a stronger instant unblur.
 4. Still something in the way? Press **Alt+P**, click the element and save a rule. It's fixed every time you come back.
 5. Press **Alt+R** to read the article in Reader View.
-6. Open the popup to switch presets, dark mode or rules, or to pause the site for 30 minutes.
+6. Open the popup to switch presets, dark mode or rules, or to pause the site for 30 minutes. Choose **Only this site** above the presets to change them for the current site alone.
+7. Find all your Reader View highlights and notes under Options > Highlights.
 
 ## Keyboard shortcuts
 
@@ -39,7 +42,7 @@ Blur Remover clears blurred backdrops, newsletter and cookie pop-ups and locked 
 
 ## Permissions, in plain words
 
-- **Read and change data on all websites**: needed to remove blurs and pop-ups and apply your rules on whatever site you visit.
+- **Read and change data on all websites**: needed to remove blurs and pop-ups and apply your rules on whatever site you visit. After an install or update it also loads into tabs that are already open, so you don't have to reload them.
 - **Storage**: keeps your settings, rules, statistics and Reader View highlights on your computer (core settings sync through your Chrome account).
 - **Scripting**: loads the element picker and Reader View into a page only when you use them.
 - **Context menus**: the right-click items (pick or zap an element, Reader View, dark mode, pause the site).
@@ -54,6 +57,12 @@ Magic auto-unblur only touches elements that are really blurred overlays. If a s
 
 **Can I share my fixes for a site?**
 Yes. In the popup, open Rules and click "Export this site's rules". The file can be imported in Options > Backup on another computer; only the rules are added.
+
+**Can I allow copy and right-click on just one site?**
+Yes. Open the popup on that site, choose "Only this site" above the presets and switch "Allow copy & right-click" on. Every other site keeps the global setting.
+
+**Where are my Reader View highlights?**
+In Options > Highlights. You can search them, open the page again, copy one page as Markdown or export everything. They are stored on your computer only.
 
 **Does it get around paid subscriptions?**
 No. It removes visual clutter that sits on top of content already loaded in your browser, such as blurred pop-ups and locked scrolling. It doesn't unlock content a site hasn't sent you.

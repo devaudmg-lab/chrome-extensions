@@ -3,17 +3,18 @@
 **Tagline:** Make any web page calm, focused and easy to read.
 
 ## What it does
-ClearPath is a reading toolkit that lives in a slim side panel. Click away ads and banners, resize cramped columns, and switch on reading aids such as a focus mask, a reading ruler, soft tints and the OpenDyslexic font. It can also read the article aloud and highlight each paragraph as it goes.
+ClearPath is a reading toolkit that lives in a slim side panel. Click away ads and banners, resize cramped columns, and switch on reading aids such as a focus mask, a reading ruler, soft tints and the OpenDyslexic font. It can also read the article aloud and highlight each paragraph and each spoken word as it goes.
 
 ## Key features
-- **Read Aloud** with paragraph highlighting, pause/resume and speed control
+- **Read Aloud** with paragraph and word-by-word highlighting, previous/next paragraph, a voice picker, pause/resume and speed control
 - **Focus Mask** that dims everything except the lines you are reading
 - **Reading Ruler** with adjustable height
 - **Dyslexia-friendly fonts** (OpenDyslexic, readable sans, book serif) plus size, line and letter spacing
 - **Colour tints**: sepia, amber, blue, green or dim
-- **Target & Hide**: click any distraction to remove it, remembered per site
+- **Target & Hide**: click any distraction to remove it, remembered per site, with Undo that works after a reload
 - **Target & Resize**: drag a column to a comfortable width
-- **Bionic Mode** to guide your eyes through each word
+- **Bionic Mode** to guide your eyes through each word (never touches menus, code or text boxes)
+- **Dock the panel left or right** so it never covers what you want to hide
 - Settings are **remembered for each site** automatically
 
 ## How to use
@@ -21,19 +22,19 @@ ClearPath is a reading toolkit that lives in a slim side panel. Click away ads a
 2. Open an article and click the ClearPath icon, then **Open Zen Control** (or press Alt+Shift+Q).
 3. Pick a tint, font or spacing. ClearPath saves it for this site.
 4. Turn on **Focus Mask** or **Reading Ruler** and move your mouse along the text.
-5. Press **Read Aloud** to listen, or select a passage first to hear just that part.
+5. Press **Read** to listen, or select a passage first to hear just that part. Use ⏮ / ⏭ to move between paragraphs and pick a voice you like.
 6. Use **Target & Hide** and click anything distracting. **Revert All** brings everything back.
 
 ## Keyboard shortcuts
 - **Alt+Shift+Q**: open or close the panel
 - **Alt+Shift+S**: read aloud (start, pause, resume)
-- **Esc**: stop hide/resize targeting
+- **Esc**: stop hide/resize targeting, or close the panel when it has focus
 
 You can change the shortcuts at chrome://extensions/shortcuts.
 
 ## Permissions, explained simply
 - **Read and change data on websites**: needed to show the panel and change how pages look. Nothing is collected or sent anywhere.
-- **Storage**: saves your per-site settings and hidden elements on your own computer.
+- **Storage**: saves your per-site settings and hidden elements on your own computer. In a private window, nothing new is saved for the site.
 - **Active tab / scripting**: lets ClearPath start in a tab that was already open, only when you click it or press a shortcut.
 
 ## FAQ
@@ -45,3 +46,12 @@ It uses the voices built into your browser and operating system, so it works off
 
 **I hid the wrong thing. How do I get it back?**
 Click **Undo Last** to restore the last element, or **Revert All** to reset everything ClearPath changed on that site.
+
+**Can websites see or change the ClearPath panel?**
+No. The panel lives in a closed shadow root: the page's styles cannot break it and its scripts cannot read or click it.
+
+**The panel covers something I want to hide.**
+Click ⇆ at the top of the panel to move it to the other side of the window. ClearPath remembers your choice.
+
+**Why is the word highlight missing with some voices?**
+Word highlighting needs the voice to report each word. Most voices installed on your computer do; some online voices only report whole sentences, and then ClearPath highlights the paragraph only.

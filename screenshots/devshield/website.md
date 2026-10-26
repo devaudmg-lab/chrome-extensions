@@ -14,9 +14,11 @@ DevShield is an ad and tracker blocker for Chrome that also stops pop-unders, sn
 - Blocked history in the popup, with an **Open** button for anything you actually wanted
 - YouTube: removes ads from videos, skips any that slip through, and can hide Shorts and Premium upsells
 - Privacy: strips tracking tags (utm_*, fbclid, gclid…) from links and sends Global Privacy Control
-- Per-site control: turn protection off for a site, allow one blocked host, or hide any element with the picker
+- Per-site control: turn protection off for a site, allow one blocked host, or hide any element with the picker (save it, or just hide it until the page reloads)
+- **Your rules here**: the popup lists the elements you hid and the hosts you allowed on the current site, and removes any of them in one click
 - Pause everywhere for 15 minutes or an hour, and it turns itself back on
-- Your own filters, plus one-click import from uBlock Origin or AdGuard
+- Your own filters, plus one-click import from uBlock Origin or AdGuard. A built-in filter check tells you which lines can't work in Chrome, and why
+- Light and dark theme that follows your system setting
 
 ## How to use
 
@@ -25,7 +27,8 @@ DevShield is an ad and tracker blocker for Chrome that also stops pop-unders, sn
 3. Click the shield to see what was blocked on the current page and your all-time totals.
 4. If a site doesn't work right, flip the site switch in the popup (or press `Alt+Shift+D`) to trust it.
 5. If a pop-up you wanted was blocked, click **Open** in the notice or in the popup's Activity list.
-6. Coming from uBlock Origin or AdGuard? Open **Settings → My filters → Import…** and choose your exported filters or backup file.
+6. Coming from uBlock Origin or AdGuard? Open **Settings → My filters → Import…** and choose your exported filters or backup file. If some lines can't be used, a note under the editor lists them with the reason.
+7. Hid the wrong thing with the picker? Open the popup on that site, click **Your rules here** and press **Remove**, then **Reload**.
 
 ## Keyboard shortcuts
 
@@ -63,3 +66,12 @@ Possibly. If a page tried to open a pop-up without your click, DevShield blocks 
 
 **Can I keep my uBlock Origin or AdGuard rules?**
 Yes. Export "My filters" (or a full backup) from uBlock Origin or AdGuard, then in DevShield go to **Settings → My filters → Import…**. Your filters are added, duplicates are skipped, and any trusted sites in a backup are added to your trusted sites.
+
+**Why are some of my imported filters listed as "cannot be applied"?**
+Chrome extensions can only do what Chrome's blocking engine allows. Custom scriptlets (`##+js(…)`), HTML filters (`##^…`, `$$`) and rules that would block every site can't run. DevShield shows each of these lines with the reason, so nothing fails silently. The built-in lists still include DevShield's own scriptlets.
+
+**I hid the wrong part of a page. How do I get it back?**
+Open the DevShield popup on that site. Under the site name, **Your rules here** lists what you hid. Click **Remove**, then **Reload**.
+
+**Does DevShield have a light theme?**
+Yes. The popup, settings, notices and element picker follow your system's light or dark setting.

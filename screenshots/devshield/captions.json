@@ -23,5 +23,15 @@
     "file": "05-import-my-filters.png",
     "title": "Bring your uBlock filters along",
     "caption": "Import \"My filters\" or a backup from uBlock Origin or AdGuard in one click."
+  },
+  {
+    "file": "06-your-rules-here.png",
+    "title": "Undo a hidden element in one click",
+    "caption": "The popup lists what you hid or allowed on this site. Remove one and reload. Light or dark follows your system."
+  },
+  {
+    "file": "07-filter-check.png",
+    "title": "Know which filters really work",
+    "caption": "After Apply or Import, DevShield lists the lines Chrome cannot use, with the line number and the reason."
   }
 ]

@@ -7,7 +7,7 @@
   {
     "file": "02-popup.png",
     "title": "Every site under your control",
-    "caption": "See what changed on the page, toggle presets, or pause the site for 30 minutes."
+    "caption": "Turn presets on for one site only, see what changed on the page, or pause the site for 30 minutes."
   },
   {
     "file": "03-element-picker.png",
@@ -22,6 +22,11 @@
   {
     "file": "05-options.png",
     "title": "Sites, rules and settings",
-    "caption": "Manage paused sites, per-site dark mode, the toolbar badge and your statistics."
+    "caption": "Manage paused sites, per-site presets and dark mode, the toolbar badge and your statistics."
+  },
+  {
+    "file": "06-highlights.png",
+    "title": "All your highlights in one place",
+    "caption": "Search every highlight and note from Reader View, open the page again, or export them as Markdown."
   }
 ]

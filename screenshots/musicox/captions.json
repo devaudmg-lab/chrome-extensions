@@ -7,7 +7,7 @@
   {
     "file": "02-playlists-and-queue.png",
     "title": "Whole playlists and your queue",
-    "caption": "Jump to any video of a YouTube playlist and line up links and audio URLs in your own queue."
+    "caption": "Jump to any video of a YouTube playlist, line up links in your own queue, and keep your favourite mixes."
   },
   {
     "file": "03-sleep-timer-and-shortcuts.png",
@@ -18,5 +18,10 @@
     "file": "04-paste-and-play.png",
     "title": "Paste a link and press play",
     "caption": "A short hint on first run explains everything, and the popup can close while music plays."
+  },
+  {
+    "file": "05-saved-playlists.png",
+    "title": "Save your queue as a playlist",
+    "caption": "Name a queue, load it again in one click, or add it to what is already playing."
   }
 ]

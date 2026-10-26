@@ -1,8 +1,8 @@
 [
   {
     "file": "01-focus-and-listen.png",
-    "title": "Focus on one line at a time",
-    "caption": "The focus mask dims all but the lines you read, while Read Aloud highlights each paragraph."
+    "title": "Listen word by word",
+    "caption": "Read Aloud highlights the paragraph and the exact word being spoken, while the focus mask dims everything else."
   },
   {
     "file": "02-dyslexia-friendly-reading.png",
@@ -12,7 +12,7 @@
   {
     "file": "03-hide-distractions.png",
     "title": "Click to hide distractions",
-    "caption": "Target & Hide outlines what is under your mouse, and one click removes it on every visit."
+    "caption": "Target & Hide outlines what is under your mouse, and one click removes it on every visit. Undo works even after a reload."
   },
   {
     "file": "04-popup-shortcuts.png",

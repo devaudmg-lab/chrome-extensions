@@ -2,7 +2,7 @@
   {
     "file": "01-zoom-toward-cursor.png",
     "title": "Zoom right where you point",
-    "caption": "Hold Alt and scroll to zoom smoothly toward your mouse, up to 1000%."
+    "caption": "Hold Alt and scroll to zoom toward your mouse, up to 1000%. Text stays sharp."
   },
   {
     "file": "02-magnifier-loupe.png",
@@ -17,11 +17,16 @@
   {
     "file": "04-read-fine-print.png",
     "title": "Read the fine print",
-    "caption": "The loupe magnifies text, maps, canvases and videos without changing the page layout."
+    "caption": "Alt+Shift+scroll makes the loupe bigger or smaller. It works on text, maps, canvases and videos."
   },
   {
     "file": "05-popup-settings.png",
     "title": "Simple settings, per site",
     "caption": "Turn zoom off for one site, pick the maximum zoom, and see every shortcut at a glance."
+  },
+  {
+    "file": "06-hand-tool.png",
+    "title": "Move around like in Photoshop",
+    "caption": "Press H, or hold Space, and drag the zoomed page. Links are never clicked by accident."
   }
 ]
