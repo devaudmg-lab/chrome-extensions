@@ -9,6 +9,7 @@ Smooth Zoom lets you zoom toward your mouse pointer on any page, like zooming a 
 - **Zoom toward the cursor** with Alt + scroll, up to 1000%
 - **Magnifier loupe** that follows your mouse, with adjustable power
 - **Alt + click an image** to make it fill the window
+- **Hand tool**: press H and drag to move around the zoomed page, just like in Photoshop
 - **Pan** with the arrow keys, the middle mouse button or Shift + drag
 - **Turn it off for one site** when that site uses Alt + scroll itself
 - Keyboard zoom, a zoom badge, and a quick reset with Esc
@@ -17,7 +18,7 @@ Smooth Zoom lets you zoom toward your mouse pointer on any page, like zooming a 
 ## How to use
 1. Install Smooth Zoom and reload any tabs that were already open.
 2. Point at something small, hold **Alt** and scroll up to zoom in.
-3. Use the **arrow keys** or drag with the middle mouse button to look around.
+3. Press **H** for the hand tool and drag to look around (or use the arrow keys). Press H or Esc to put the hand down.
 4. Hold **Alt** and click an image or chart to fit it to the window.
 5. Press **Alt+Shift+M** for the magnifier loupe. Hold Alt and scroll to change its power.
 6. Press **Esc** to go back to normal.
@@ -27,6 +28,7 @@ Smooth Zoom lets you zoom toward your mouse pointer on any page, like zooming a 
 - **Alt + Plus / Alt + Minus**: zoom in / out
 - **Alt + click** on an image: fit it to the window
 - **Arrow keys** (Shift for bigger steps): pan while zoomed
+- **H**: hand tool on/off while zoomed (drag to move, Esc exits)
 - **Middle-drag** or **Shift + drag**: pan while zoomed
 - **Alt+Shift+M**: magnifier loupe
 - **Alt + 0** or **Esc**: reset / close the loupe
